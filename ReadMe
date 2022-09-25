@@ -1,0 +1,45 @@
+Read me 
+#card HiLo
+Description
+Are you ready for a card game of Hi lo? If you like guessing game you at the right place. This is how you play:
+PLAYER start with a 300 points
+A card is display
+PLAYER guessed Hi or Lo(guessing between 1-13)
+Next card is displayed	 
+PLAYER earned 100 points if guessed correctly
+PLAYER loses 75 points if guessed wrong
+As long as you have points you can keep playing
+PLAYER points reaches 0 the game is over 
+PLAYER decides not to play the game is over.
+Keep your guessed RIGHT!!! And you’ll stay in the game!!
+
+## Getting Started
+---
+Make sure you have Python 3.8.0 or newer installed and running on your machine. Open a terminal and 
+browse to the project's root folder. Start the program by running the following command.
+```
+python3 card
+```
+You can also run the program from an IDE like Visual Studio Code. Start your IDE and open the 
+project folder. Select the main module inside the card folder and click the "run" button.
+
+## Project Structure
+---
+The project files and folders are organized as follows:
+```
+root                    (project root folder)
++-- card                (source code for game)
+  +-- game              (specific classes)
+  +-- __main__.py       (program entry point)
++-- README.md           (general info)
+```
+
+## Required Technologies
+---
+* Python 3.8.0
+
+## Authors
+---
+* Latai Takapu (schoolemail@byui.edu)
+
+
